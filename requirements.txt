@@ -1,0 +1,8 @@
+The requirements are listed as follows:
+-NumPy
+-Pandas
+-Scikit-learn (or specific ML algorithms used)
+-Matplotlib (or visualization library)
+-Streamlit 
+-Flask (for creating a web interface)
+-HTML, CSS, JavaScript
